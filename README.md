@@ -1,0 +1,2 @@
+# EDSA-ML
+I conducted experiments on the text emotion dataset to test the efficiency of the proposed method for social emotion detection. There were 40000 text emotion data including thirteen reader feelings (neutral, worry, happiness, sadness, love, surprise, fun, relief, the, empty, enthusiasm, boredom, anger).The problem I solved in this project, therefore, is that I identified emotions or sentiments that have not been specifically expressed on the articles, blogs, and social media sites in this machine learning algorithms.
